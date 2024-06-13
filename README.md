@@ -10,4 +10,4 @@ MARS requires a recent version of Java prior to its installation. You can check 
 
 ## MARS IDE
 
-To install MARS IDE onto your local machine you can check the download page on the [official MSU website](https://courses.missouristate.edu/kenvollmar/mars/download.htm). You may also check the [documentation](https://courses.missouristate.edu/kenvollmar/mars/Help/MarsHelpCommand.html) through the saem link.
+To install MARS IDE onto your local machine you can check the download page on the [official MSU website](https://courses.missouristate.edu/kenvollmar/mars/download.htm). You may also check the [documentation](https://courses.missouristate.edu/kenvollmar/mars/Help/MarsHelpCommand.html) through the same link.
